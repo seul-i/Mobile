@@ -18,6 +18,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".digital" />
+        <activity android:name=".camera" />
+        <activity android:name=".home_appliances" />
+        <activity android:name=".beauty" />
+        <activity android:name=".animal" />
+        <activity android:name=".activity" />
+        <activity android:name=".login"></activity>
+        <activity android:name=".signup"></activity>
     </application>
 
 </manifest>
